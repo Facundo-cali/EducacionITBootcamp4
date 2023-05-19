@@ -1,0 +1,8 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar los archivos de caché y configuración de Sass/SCSS
+*.sass-cache/
+.sass-cache/
+.sass-cache/**
+*.css.map
